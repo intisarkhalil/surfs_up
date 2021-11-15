@@ -1,6 +1,6 @@
-# surfs_up
+# Surfs_Up
 ## Overview of the Project
-The purpose of this analysis is to analyze weather data that has been stored in SQLite database [Database](). The client wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.  In order to extract the data in the SQLite database, we used **SQLAlchemy** to connect and generate queries to get the necessary information needed for our analysis. We use **Jupyter Notebook** and **SQLite** and **AQLAlchemy**.
+The purpose of this analysis is to analyze weather data that has been stored in SQLite database [Database](https://github.com/intisarkhalil/surfs_up.git). The client wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.  In order to extract the data in the SQLite database, we used **SQLAlchemy** to connect and generate queries to get the necessary information needed for our analysis. We use **Jupyter Notebook** and **SQLite** and **AQLAlchemy**.
 
 ### The Analysis and challenges
 1. Determine the summary statistics for June:
